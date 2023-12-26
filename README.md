@@ -1,5 +1,4 @@
 # Laptop-Prices-Prediction
-
 **Introduction**
 
 Performs data preprocessing and exploratory data analysis (EDA) on a laptop dataset using Python libraries such as Pandas, Matplotlib, NumPy, and Seaborn. It aims to clean the dataset, visualize relationships between laptop attributes, and prepare the data for modeling.
