@@ -16,10 +16,15 @@ The code performs various transformations on specific columns, converting string
 The next section conducts exploratory data analysis using visualizations:
 
 Distribution Plot: Visualizes the distribution of laptop prices.
+
 Bar Plots: Illustrates the distribution of laptop prices across different laptop brands, touchscreen availability, IPS display, CPU brands, OS types, and more.
+
 Scatter Plot: Shows the relationship between laptop screen size (Inches) and prices.
+
 Histogram and Density Plot: Depicts the distribution and density of laptop weights.
-Feature Engineering
+
+**Feature Engineering**
+
 The code performs feature engineering by categorizing memory types (HDD, SSD) and GPU brands. It also categorizes operating systems into Windows, Mac, and Others/No OS/Linux categories.
 
 **Visualization and Insights**
@@ -27,8 +32,11 @@ The code performs feature engineering by categorizing memory types (HDD, SSD) an
 The code generates visualizations to gain insights into the dataset:
 
 Bar Plots: Illustrates how laptop prices vary based on GPU brands and operating systems.
+
 Histogram and Scatter Plot: Visualizes the distribution and relationship between laptop weights and prices.
-Conclusion
+
+**Conclusion**
+
 The code concludes with visualizations and transformations aimed at understanding the relationships and distributions within the dataset, setting the stage for further analysis or modeling.
 
 **Summary and Results**
@@ -38,6 +46,9 @@ Provide a summary of the insights gained from the exploratory analysis, any sign
 **Libraries used**
 
 Pandas (import pandas as pd)
+
 Matplotlib (import matplotlib.pyplot as plt)
+
 NumPy (import numpy as np)
+
 Seaborn (import seaborn as sns)
